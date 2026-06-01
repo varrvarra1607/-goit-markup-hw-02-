@@ -11,4 +11,12 @@ color: #2e2f42;
 .logo span {
 color: #4d5ae5;
 }
-header 
+header a {
+    font-weight: 500;
+    color: #2e2f42;
+}
+
+address a {
+    font-weight: 400;
+    color: #434455;
+}

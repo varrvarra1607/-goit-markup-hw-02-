@@ -10,4 +10,15 @@ ul {
     padding: 0;
 }
 
-a
+a {
+    text-decoration: none;
+}
+h1,
+h2,
+h3,
+p {
+    margin: 0;
+}
+img {
+    display: block;
+}
