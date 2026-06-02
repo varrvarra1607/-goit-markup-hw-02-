@@ -1,8 +1,8 @@
-#team {
+.team {
     background-color: #f4f4fd;
     padding: 120px 0;
 }
-#team h2 {
+.team h2 {
     font-size: 36px;
     line-height: 1.11;
     text-align: center;
@@ -12,7 +12,7 @@
 
     margin-bottom: 72px;
 }
-#team h3 {
+.team h3 {
     font-weight: 500;
     font-size: 20px;
     line-height: 1.2;
@@ -21,10 +21,10 @@
 
     margin-bottom: 8px;
 }
-#team p {
+.team p {
     line-height: 1.5;
     letter-spacing: 0.02em;
 }
-#team li {
+.team li {
     background-color: #ffffff;
 }

@@ -1,15 +1,15 @@
-#footer {
+.footer {
     background-color: #2e2f42;
     padding: 100px 0;
 }
-#footer .logo {
+.footer .logo {
     color: #f4f4fd;
 }
 
-#footer .logo span {
+.footer .logo span {
     color: #4d5ae5;
 }
-#footer p {
+.footer p {
     color: #f4f4fd;
     line-height: 1.5;
     letter-spacing: 0.02em;

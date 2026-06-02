@@ -1,8 +1,8 @@
-#hero {
+.hero {
     background-color: #2e2f42;
     padding: 188px 0;
 }
-#hero h1 {
+.hero h1 {
     font-size: 56px;
     line-height: 1.07;
     text-align: center;
@@ -12,7 +12,7 @@
   margin: 0 auto;
 }
 
-#hero button {
+.hero button {
     font-family: "Roboto", sans-serif;
     font-weight: 500;
     font-size: 16px;

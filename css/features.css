@@ -1,10 +1,10 @@
-#features {
+.features {
     padding: 120px 0;
 }
-#features h2 {
+.features h2 {
     display: none;
 }
-#features h3 {
+.features h3 {
     font-weight: 500;
     font-size: 20px;
     line-height: 1.2;
@@ -12,12 +12,9 @@
     color: #2e2f42;
 }
 
-#features p {
+.features p {
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
     color: #434455;
-}
-#features li {
-    margin-bottom: 24px;
 }
